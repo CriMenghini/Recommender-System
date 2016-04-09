@@ -1,4 +1,4 @@
-# Recommender-System
+# Recommender-System(12-17 february 2016)
 
 In this project I have to implement a recommender system for movies. As a dataset I use the MovieLens 1M dataset, available at http://grouplens.org/datasets/movielens. The scripts refer to the 'ratings.csv'.
 
